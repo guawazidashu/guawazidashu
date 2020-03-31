@@ -3,9 +3,8 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 朋友，欢迎访问 瓜娃子大叔
-
-该博客托管于 GitHub Page，留言页面使用腾讯的“吐个槽”。主题引用TMaize的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork 大神的主题。另喜欢本博客的欢迎**添加好友交流**，或在[留言板](chat.html)留言
+> 
+Hello 朋友，欢迎访问 瓜娃子大叔
 
 ## 瓜叔爱好
 - 私藏冷门书、绝版书、非流通书、名著经典
