@@ -15,6 +15,34 @@
   font-size: 14px;
   vertical-align: middle;
 }
+.list-post li .key-booklist-title {
+  color: chocolate;
+  background-color: beige;
+  font-size: 13px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.list-post li .key-book-title {
+  color: darkslategrey;
+  background-color: beige;
+  font-size: 13px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.list-post li .key-movielist-title {
+  color: lightgreen;
+  background-color: beige;
+  font-size: 13px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.list-post li .key-movie-title {
+  color: tomato;
+  background-color: beige;
+  font-size: 13px;
+  font-weight: bold;
+  vertical-align: middle;
+}
 .list-post li .title {
   font-size: 15px;
   padding: 3px 0;

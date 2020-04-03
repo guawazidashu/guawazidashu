@@ -1,7 +1,8 @@
 ---
 layout: mypost
 title: 《姑妄言》中国古代情色小说的巅峰
-categories: [书籍,情色]
+categories: [情色小说]
+pagetype: 3
 ---
 
 # 简介

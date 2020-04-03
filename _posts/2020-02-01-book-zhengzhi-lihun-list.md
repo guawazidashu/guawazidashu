@@ -1,7 +1,8 @@
 ---
 layout: mypost
-title: 政治理论—非流通、馆藏书籍列表（严禁以任何形式公开分享或流传）
-categories: [书籍,政治理论]
+title: 政治理论—馆藏书籍列表
+categories: [政治理论]
+pagetype: 1
 ---
 
 >

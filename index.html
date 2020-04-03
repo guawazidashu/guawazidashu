@@ -14,6 +14,17 @@ title: 首页
     {%- endif %}
         <li>
           <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
+          <!-- 首页文章列表标题：添加Tag标识 -->
+          {%- if post.pagetype == 1 %}
+          <span class="key-booklist-title">书单</span>
+          {%- elsif post.pagetype == 2 %}
+          <span class="key-movielist-title">影单</span>
+          {%- elsif post.pagetype == 3 %}
+          <span class="key-book-title">书籍</span>
+          {%- elsif post.pagetype == 4 %}
+          <span class="key-movie-title">电影</span>
+          {%- endif %}
+          <!-- end -->
           <a href="{{ site.baseurl | append: post.url }}" class="title hover-underline">{{ post.title }}</a>
           {% for categorie in post.categories -%}
           <a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="category hover-underline">{{ categorie }}</a>

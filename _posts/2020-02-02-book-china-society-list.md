@@ -1,7 +1,8 @@
 ---
 layout: mypost
-title: 「推荐!!!」中国社会与教育—非流通、馆藏书籍列表（严禁以任何形式公开分享或流传）
-categories: [书籍,中国,中国社会教育]
+title: 中国社会与教育—馆藏书籍列表
+categories: [中国社会教育]
+pagetype: 1
 ---
 
 >

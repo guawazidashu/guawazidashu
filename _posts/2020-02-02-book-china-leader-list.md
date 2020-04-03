@@ -1,7 +1,8 @@
 ---
 layout: mypost
-title: 「推荐!!!」中国国家领导—非流通、馆藏书籍列表（严禁以任何形式公开分享或流传）
-categories: [书籍,中国,中国政治人物]
+title: 中国国家领导—馆藏书籍列表
+categories: [中国政治人物]
+pagetype: 1
 ---
 
 >
