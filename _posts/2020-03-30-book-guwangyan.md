@@ -50,5 +50,5 @@ _描写群生之恨_
 - [在线阅读](http://www.cngdwx.com/yuanmingqing/guwangyan/314865.html)
 - (**推荐**)[电子版珍藏](https://i.zhuanzhuan.com/bFg5M)
 
->
-有问题欢迎点击[**瓜叔**](/pages/mywechat)联系，秒回哦～
+# 获取资源
+>- 点击[**瓜叔**](/pages/mywechat)微信联系，秒回哦～

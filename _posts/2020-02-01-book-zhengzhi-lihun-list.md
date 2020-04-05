@@ -170,3 +170,6 @@ pagetype: 1
 | 当代欧洲政治思想，1945~1989 | European Political Thought, 1945~1989 | (意) 萨尔沃·马斯泰罗 (主编) |
 | 君主论 | The Prince | (意) 尼可罗·马基亚维利 |
 | 理想国 | The Republic | (古希腊) 柏拉图 |
+
+# 获取资源
+>- 点击[**瓜叔**](/pages/mywechat)微信联系，秒回哦～
